@@ -1,0 +1,14 @@
+{
+    "person": {
+      "name": "Jane Smith",
+      "details": {
+        "age": 25,
+        "location": {
+          "city": "San Francisco",
+          "destination": "Los Angeles"
+        }
+      },
+      "status": "Inactive"
+    }
+  }
+  
